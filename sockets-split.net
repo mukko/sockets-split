@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\mukk0\Documents\sockets-split\sockets-split.sch)
-    (date "2019/02/11 23:27:28")
+    (date "2019/02/16 10:52:20")
     (tool "Eeschema (5.0.2)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -329,7 +329,7 @@
       (tstamp 5C2C9679))
     (comp (ref U1)
       (value ProMicro)
-      (footprint kbd:ProMicro_v2_one)
+      (footprint kbd:ProMicro_v2)
       (libsource (lib kbd) (part ProMicro) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5C2C9BB1))
