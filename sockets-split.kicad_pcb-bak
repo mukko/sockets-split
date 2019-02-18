@@ -206,7 +206,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67BB73)
-    (at 0 0)
+    (at 95.25 57.15)
     (path /5C2C9673)
     (fp_text reference SW25 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1701,7 +1701,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B488)
-    (at 0 0)
+    (at 14.2875 0)
     (path /5C2C81AA)
     (fp_text reference SW2 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1789,7 +1789,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B4D5)
-    (at 0 0)
+    (at 33.3375 0)
     (path /5C2C82B9)
     (fp_text reference SW3 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1877,7 +1877,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B522)
-    (at 0 0)
+    (at 52.3875 0)
     (path /5C2C84C9)
     (fp_text reference SW4 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -1965,7 +1965,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B56F)
-    (at 0 0)
+    (at 71.4375 0)
     (path /5C2C84D5)
     (fp_text reference SW5 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2053,7 +2053,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B5BC)
-    (at 0 0)
+    (at 90.4875 0)
     (path /5C2C8A09)
     (fp_text reference SW6 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2141,7 +2141,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B609)
-    (at 0 0)
+    (at 109.4295 0)
     (path /5C2C8A15)
     (fp_text reference SW7 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2229,7 +2229,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B656)
-    (at 0 0)
+    (at 9.525 19.05)
     (path /5C2C901F)
     (fp_text reference SW8 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2317,7 +2317,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B6A3)
-    (at 0 0)
+    (at 28.575 19.05)
     (path /5C2C902B)
     (fp_text reference SW9 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2405,7 +2405,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B6F0)
-    (at 0 0)
+    (at 47.625 19.05)
     (path /5C2C9037)
     (fp_text reference SW10 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2493,7 +2493,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B73D)
-    (at 0 0)
+    (at 66.675 19.05)
     (path /5C2C9043)
     (fp_text reference SW11 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2581,7 +2581,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B78A)
-    (at 0 0)
+    (at 85.725 19.05)
     (path /5C2C904F)
     (fp_text reference SW12 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2669,7 +2669,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B7D7)
-    (at 0 0)
+    (at 104.775 19.05)
     (path /5C2C905B)
     (fp_text reference SW13 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2757,7 +2757,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B824)
-    (at 0 0)
+    (at 4.7625 38.1)
     (path /5C2C95EF)
     (fp_text reference SW14 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2845,7 +2845,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B871)
-    (at 0 0)
+    (at 23.8125 38.1)
     (path /5C2C95FB)
     (fp_text reference SW15 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -2933,7 +2933,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B8BE)
-    (at 0 0)
+    (at 42.8625 38.1)
     (path /5C2C9607)
     (fp_text reference SW16 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3021,7 +3021,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B90B)
-    (at 0 0)
+    (at 61.9125 38.1)
     (path /5C2C9613)
     (fp_text reference SW17 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3109,7 +3109,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B958)
-    (at 0 0)
+    (at 80.9625 38.1)
     (path /5C2C961F)
     (fp_text reference SW18 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3197,7 +3197,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B9A5)
-    (at 0 0)
+    (at 99.9765 38.1)
     (path /5C2C962B)
     (fp_text reference SW19 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3285,7 +3285,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B9F2)
-    (at 0 0)
+    (at 0 57.15)
     (path /5C2C9637)
     (fp_text reference SW20 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3373,7 +3373,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67BA3F)
-    (at 0 0)
+    (at 19.05 57.15)
     (path /5C2C9643)
     (fp_text reference SW21 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3461,7 +3461,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67BA8C)
-    (at 0 0)
+    (at 38.1 57.15)
     (path /5C2C964F)
     (fp_text reference SW22 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3549,7 +3549,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67BAD9)
-    (at 0 0)
+    (at 57.15 57.15)
     (path /5C2C965B)
     (fp_text reference SW23 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
@@ -3637,7 +3637,7 @@
   )
 
   (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67BB26)
-    (at 0 0)
+    (at 76.2 57.15)
     (path /5C2C9667)
     (fp_text reference SW24 (at 7.1 8.2) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
