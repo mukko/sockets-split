@@ -1,0 +1,443 @@
+Cmp-Mod V01 Created by PcbNew   date = 2019/01/04 11:54:38
+
+BeginCmp
+TimeStamp = 5C2EE0F7
+Path = /5C2C81AA
+Reference = SW2;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDE01
+Path = /5C2C8248
+Reference = D1;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDE1B
+Path = /5C2C82BF
+Reference = D2;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDE35
+Path = /5C2C84CF
+Reference = D3;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDE4F
+Path = /5C2C84DB
+Reference = D4;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDE69
+Path = /5C2C8A0F
+Reference = D5;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDE83
+Path = /5C2C8A1B
+Reference = D6;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDE9D
+Path = /5C2C9025
+Reference = D7;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDEB7
+Path = /5C2C9031
+Reference = D8;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDED1
+Path = /5C2C903D
+Reference = D9;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDEEB
+Path = /5C2C9049
+Reference = D10;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDF05
+Path = /5C2C9055
+Reference = D11;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDF1F
+Path = /5C2C9061
+Reference = D12;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDF39
+Path = /5C2C95F5
+Reference = D13;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDF53
+Path = /5C2C9601
+Reference = D14;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDF6D
+Path = /5C2C960D
+Reference = D15;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDF87
+Path = /5C2C9619
+Reference = D16;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDFA1
+Path = /5C2C9625
+Reference = D17;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDFBB
+Path = /5C2C9631
+Reference = D18;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDFD5
+Path = /5C2C963D
+Reference = D19;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EDFEF
+Path = /5C2C9649
+Reference = D20;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE009
+Path = /5C2C9655
+Reference = D21;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE023
+Path = /5C2C9661
+Reference = D22;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE03D
+Path = /5C2C966D
+Reference = D23;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE057
+Path = /5C2C9679
+Reference = D24;
+ValeurCmp = D;
+IdModule  = kbd:D3_TH_SMD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE061
+Path = /5C2DC5F8
+Reference = J1;
+ValeurCmp = LED;
+IdModule  = kbd:StripLED_rev;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE06F
+Path = /5C32F9D9
+Reference = J2;
+ValeurCmp = Conn_01x01;
+IdModule  = kbd:1pin_conn;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE089
+Path = /5C2E0F41
+Reference = J3;
+ValeurCmp = MJ-4PP-9;
+IdModule  = kbd:MJ-4PP-9;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE097
+Path = /5C32CF8C
+Reference = J4;
+ValeurCmp = Conn_01x01;
+IdModule  = kbd:1pin_conn;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE0A1
+Path = /5C30FCA8
+Reference = JP1;
+ValeurCmp = Jumper_NC_Small;
+IdModule  = kbd:Jumper;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE0B3
+Path = /5C2D6098
+Reference = SW1;
+ValeurCmp = RESET_SW;
+IdModule  = kbd:ResetSW_4P;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE13B
+Path = /5C2C82B9
+Reference = SW3;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE17F
+Path = /5C2C84C9
+Reference = SW4;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE1C3
+Path = /5C2C84D5
+Reference = SW5;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE207
+Path = /5C2C8A09
+Reference = SW6;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE24B
+Path = /5C2C8A15
+Reference = SW7;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE28F
+Path = /5C2C901F
+Reference = SW8;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE2D3
+Path = /5C2C902B
+Reference = SW9;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE317
+Path = /5C2C9037
+Reference = SW10;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE35B
+Path = /5C2C9043
+Reference = SW11;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE39F
+Path = /5C2C904F
+Reference = SW12;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE3E3
+Path = /5C2C905B
+Reference = SW13;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE427
+Path = /5C2C95EF
+Reference = SW14;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE46B
+Path = /5C2C95FB
+Reference = SW15;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE4AF
+Path = /5C2C9607
+Reference = SW16;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE4F3
+Path = /5C2C9613
+Reference = SW17;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE537
+Path = /5C2C961F
+Reference = SW18;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE57B
+Path = /5C2C962B
+Reference = SW19;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE5BF
+Path = /5C2C9637
+Reference = SW20;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE603
+Path = /5C2C9643
+Reference = SW21;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE647
+Path = /5C2C964F
+Reference = SW22;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE68B
+Path = /5C2C965B
+Reference = SW23;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE6CF
+Path = /5C2C9667
+Reference = SW24;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C2EE713
+Path = /5C2C9673
+Reference = SW25;
+ValeurCmp = SW_PUSH;
+IdModule  = kbd:CherryMX_Choc_Hotswap;
+EndCmp
+
+BeginCmp
+TimeStamp = 5C3054BE
+Path = /5C2C9BB1
+Reference = U1;
+ValeurCmp = ProMicro;
+IdModule  = kbd:ProMicro_v2;
+EndCmp
+
+EndListe
