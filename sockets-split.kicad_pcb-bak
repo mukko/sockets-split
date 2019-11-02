@@ -95,7 +95,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../../Desktop/sockets-split-1.1/"))
+      (outputdirectory "../../../Desktop/aaa/"))
   )
 
   (net 0 "")
@@ -6021,7 +6021,7 @@
   (segment (start 215.25 71.4) (end 213.5632 73.0868) (width 0.25) (layer F.Cu) (net 48))
   (segment (start 215.65 71.4) (end 215.25 71.4) (width 0.25) (layer F.Cu) (net 48))
 
-  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 5D7CABCA) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 5D64D36E) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -8219,7 +8219,7 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 5D7CABC7) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 5D64D36B) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
