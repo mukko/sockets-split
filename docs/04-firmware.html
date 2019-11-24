@@ -201,9 +201,14 @@
 <h2 id="&#x30EA;&#x30DD;&#x30B8;&#x30C8;&#x30EA;">&#x30EA;&#x30DD;&#x30B8;&#x30C8;&#x30EA;</h2>
 <p>qmk_firmware&#x3092;&#x5229;&#x7528;&#x3057;&#x3066;&#x3044;&#x307E;&#x3059;&#x304C;&#x3001;&#x307E;&#x3060;&#x672C;&#x5BB6;&#x306E;&#x65B9;&#x3078;&#x306E;Pull Reqeus&#x3092;&#x767A;&#x884C;&#x3057;&#x3066;&#x3044;&#x306A;&#x3044;&#x305F;&#x3081;&#x3001;&#x4EE5;&#x4E0B;&#x306E;&#x30EA;&#x30DD;&#x30B8;&#x30C8;&#x30EA;&#x304B;&#x3089;&#x53D6;&#x5F97;&#x3057;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;<br><a href="https://github.com/mukko/qmk_firmware" target="_blank">mukko&#x306E;qmk_firmware</a>  </p>
 <h2 id="&#x66F8;&#x304D;&#x8FBC;&#x307F;">&#x66F8;&#x304D;&#x8FBC;&#x307F;</h2>
-<p>qmk_firmware&#x306E;&#x30EB;&#x30FC;&#x30C8;&#x30C7;&#x30A3;&#x30EC;&#x30AF;&#x30C8;&#x30EA;&#x3067;&#x4EE5;&#x4E0B;&#x306E;&#x30B3;&#x30DE;&#x30F3;&#x30C9;&#x3067;&#x30D3;&#x30EB;&#x30C9;&#x3057;&#x307E;&#x3059;&#x3002;  </p>
+<p>PC&#x3068;&#x30B1;&#x30FC;&#x30D6;&#x30EB;&#x3067;&#x63A5;&#x7D9A;&#x3057;&#x3001;&#x7247;&#x624B;&#x305A;&#x3064;&#x5B9F;&#x884C;&#x3057;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;  </p>
+<p><a href="https://github.com/qmk/qmk_toolbox/releases" target="_blank">QMK Toolbox</a>&#x3092;&#x5229;&#x7528;&#x3057;&#x3066;&#x66F8;&#x304D;&#x8FBC;&#x3080;&#x3002;<br>&#x3082;&#x3057;&#x304F;&#x306F;&#x3001;qmk_firmware&#x306E;&#x30EB;&#x30FC;&#x30C8;&#x30C7;&#x30A3;&#x30EC;&#x30AF;&#x30C8;&#x30EA;&#x3067;&#x4EE5;&#x4E0B;&#x306E;&#x30B3;&#x30DE;&#x30F3;&#x30C9;&#x3067;&#x30D3;&#x30EB;&#x30C9;&#x3057;&#x307E;&#x3059;&#x3002;  </p>
 <pre><code class="lang-bash"><span class="hljs-comment"># build</span>
 make sockets_split/rev1:default
+</code></pre>
+<p>&#x66F8;&#x304D;&#x8FBC;&#x307F;&#x307E;&#x3067;&#x4E00;&#x6C17;&#x306B;&#x3084;&#x308B;&#x5834;&#x5408;&#x3001;  </p>
+<pre><code class="lang-bash"><span class="hljs-comment"># build and flush</span>
+make sockets_split/rev1:default:avrdude
 </code></pre>
 <p>USB&#x30B1;&#x30FC;&#x30D6;&#x30EB;&#x3067;PC&#x3068;&#x30AD;&#x30FC;&#x30DC;&#x30FC;&#x30C9;&#x3092;&#x63A5;&#x7D9A;&#x3057;&#x3001;&#x4E0A;&#x8A18;&#x30B3;&#x30DE;&#x30F3;&#x30C9;&#x3067;&#x751F;&#x6210;&#x3057;&#x305F;&#x30D0;&#x30A4;&#x30CA;&#x30EA;&#x30D5;&#x30A1;&#x30A4;&#x30EB;&#x3092;&#x66F8;&#x304D;&#x8FBC;&#x307F;&#x307E;&#x3059;&#x3002;<br>&#x30EA;&#x30BB;&#x30C3;&#x30C8;&#x30B9;&#x30A4;&#x30C3;&#x30C1;&#x3092;&#x62BC;&#x3059;&#x3068;&#x66F8;&#x304D;&#x8FBC;&#x3081;&#x308B;&#x72B6;&#x614B;&#x306A;&#x308B;&#x306E;&#x3067;&#x3001;&#x305D;&#x306E;&#x72B6;&#x614B;&#x306E;&#x969B;&#x306B;&#x66F8;&#x304D;&#x8FBC;&#x307F;&#x3092;&#x5B9F;&#x884C;&#x3057;&#x3066;&#x304F;&#x3060;&#x3055;&#x3044;&#x3002;  </p>
 
@@ -245,7 +250,7 @@ make sockets_split/rev1:default
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"ファームウェアビルド、書き込み","level":"1.5","depth":1,"previous":{"title":"ケース、スイッチ組み立て","level":"1.4","depth":1,"path":"docs/03-case.md","ref":"./docs/03-case.md","articles":[]},"dir":"ltr"},"config":{"plugins":[],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"ja","gitbook":"*"},"file":{"path":"docs/04-firmware.md","mtime":"2019-09-08T12:26:37.238Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-11-23T14:04:21.975Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"ファームウェアビルド、書き込み","level":"1.5","depth":1,"previous":{"title":"ケース、スイッチ組み立て","level":"1.4","depth":1,"path":"docs/03-case.md","ref":"./docs/03-case.md","articles":[]},"dir":"ltr"},"config":{"plugins":["hide-published-with"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"hide-published-with":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"language":"ja","gitbook":"*"},"file":{"path":"docs/04-firmware.md","mtime":"2019-11-24T04:03:45.157Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2019-11-24T04:13:52.572Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
@@ -253,6 +258,10 @@ make sockets_split/rev1:default
         
     <script src="../gitbook/gitbook.js"></script>
     <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-hide-published-with/plugin.js"></script>
+        
     
         
         <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>

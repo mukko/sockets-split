@@ -875,7 +875,7 @@ L Device:Jumper_NC_Small JP1
 U 1 1 5C30FCA8
 P 4450 2825
 F 0 "JP1" H 4450 2640 50  0000 C CNN
-F 1 "JP1" H 4450 2731 50  0000 C CNN
+F 1 "Jumper_NC_Small" H 4450 2731 50  0000 C CNN
 F 2 "kbd:JPC2" H 4450 2825 50  0001 C CNN
 F 3 "~" H 4450 2825 50  0001 C CNN
 	1    4450 2825
@@ -903,14 +903,30 @@ F 3 "~" H 4050 3025 50  0001 C CNN
 	1    4050 3025
 	0    1    1    0   
 $EndComp
+$Comp
+L Connector_Generic:Conn_01x01 P1
+U 1 1 5C32F9D9
+P 4050 2400
+F 0 "P1" V 4016 2312 50  0000 R CNN
+F 1 "i2c-pin" V 3925 2312 50  0000 R CNN
+F 2 "kbd:1pin_conn" H 4050 2400 50  0001 C CNN
+F 3 "~" H 4050 2400 50  0001 C CNN
+	1    4050 2400
+	0    -1   -1   0   
+$EndComp
 Text GLabel 4725 2825 2    50   Input ~ 0
 data
+Wire Wire Line
+	3650 2825 4050 2825
+Connection ~ 4050 2825
+Wire Wire Line
+	4050 2825 4350 2825
 Wire Wire Line
 	4550 2825 4725 2825
 Wire Wire Line
 	3650 2675 4050 2675
 Wire Wire Line
-	4050 2675 4050 2670
+	4050 2675 4050 2600
 Wire Wire Line
 	3650 2725 3800 2725
 Wire Wire Line
@@ -971,6 +987,17 @@ NoConn ~ 1300 1900
 NoConn ~ 1300 2000
 NoConn ~ 2700 1300
 $Comp
+L power:VCC #PWR011
+U 1 1 5C3962CC
+P 1900 3575
+F 0 "#PWR011" H 1900 3425 50  0001 C CNN
+F 1 "VCC" H 1917 3748 50  0000 C CNN
+F 2 "" H 1900 3575 50  0001 C CNN
+F 3 "" H 1900 3575 50  0001 C CNN
+	1    1900 3575
+	1    0    0    -1  
+$EndComp
+$Comp
 L power:VCC #PWR012
 U 1 1 5C39634C
 P 2250 3575
@@ -986,6 +1013,17 @@ SDA
 Text GLabel 1300 1800 0    50   Input ~ 0
 SCL
 $Comp
+L Device:R R1
+U 1 1 5C39DFD2
+P 1900 3725
+F 0 "R1" H 1970 3771 50  0000 L CNN
+F 1 "R" H 1970 3680 50  0000 L CNN
+F 2 "kbd:R" V 1830 3725 50  0001 C CNN
+F 3 "~" H 1900 3725 50  0001 C CNN
+	1    1900 3725
+	1    0    0    -1  
+$EndComp
+$Comp
 L Device:R R2
 U 1 1 5C39E07E
 P 2250 3725
@@ -996,46 +1034,8 @@ F 3 "~" H 2250 3725 50  0001 C CNN
 	1    2250 3725
 	1    0    0    -1  
 $EndComp
+Text GLabel 1900 3875 3    50   Input ~ 0
+SDA
 Text GLabel 2250 3875 3    50   Input ~ 0
 SCL
-Connection ~ 4050 2825
-Wire Wire Line
-	4050 2825 4350 2825
-Wire Wire Line
-	3650 2825 4050 2825
-Text GLabel 1930 3880 3    50   Input ~ 0
-SDA
-$Comp
-L power:VCC #PWR0101
-U 1 1 5D2AC1C6
-P 1930 3580
-F 0 "#PWR0101" H 1930 3430 50  0001 C CNN
-F 1 "VCC" H 1947 3753 50  0000 C CNN
-F 2 "" H 1930 3580 50  0001 C CNN
-F 3 "" H 1930 3580 50  0001 C CNN
-	1    1930 3580
-	1    0    0    -1  
-$EndComp
-$Comp
-L Device:R R1
-U 1 1 5D2AC25F
-P 1930 3730
-F 0 "R1" H 2000 3776 50  0000 L CNN
-F 1 "R" H 2000 3685 50  0000 L CNN
-F 2 "kbd:R" V 1860 3730 50  0001 C CNN
-F 3 "~" H 1930 3730 50  0001 C CNN
-	1    1930 3730
-	1    0    0    -1  
-$EndComp
-$Comp
-L Connector_Generic:Conn_01x01 P1
-U 1 1 5D3031D4
-P 4050 2470
-F 0 "P1" V 4016 2382 50  0000 R CNN
-F 1 "i2c-pin" V 3925 2382 50  0000 R CNN
-F 2 "kbd:1pin_conn" H 4050 2470 50  0001 C CNN
-F 3 "~" H 4050 2470 50  0001 C CNN
-	1    4050 2470
-	0    -1   -1   0   
-$EndComp
 $EndSCHEMATC
