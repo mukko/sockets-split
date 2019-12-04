@@ -95,7 +95,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../../Desktop/sockets-split-1.1/"))
+      (outputdirectory "../../../Desktop/sockets-split-1.2/sockets-split/"))
   )
 
   (net 0 "")
@@ -2509,7 +2509,7 @@
       (net 5 "Net-(D4-Pad2)"))
   )
 
-  (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5C0D2157) (tstamp 5C67B5BC)
+  (module kbd:CherryMX_Hotswap (layer F.Cu) (tedit 5DE70DCE) (tstamp 5C67B5BC)
     (at 191.0715 61.468)
     (path /5C2C8A09)
     (fp_text reference SW6 (at 7.1 8.2) (layer F.SilkS) hide
@@ -4112,7 +4112,7 @@
     (pad "" np_thru_hole circle (at 0 -0.3048) (size 2.3 2.3) (drill 2.1) (layers *.Cu *.Mask))
   )
 
-  (module kbd:HOLE_M2 (layer F.Cu) (tedit 5D7C8895) (tstamp 5CB14CF9)
+  (module kbd:HOLE_M2 (layer F.Cu) (tedit 5DE70DE7) (tstamp 5CB14CF9)
     (at 181.9148 67.6656)
     (descr "Mounting Hole 2.2mm, no annular, M2")
     (tags "mounting hole 2.2mm no annular m2")
@@ -4218,10 +4218,10 @@
   (gr_text mx (at 189.5856 88.2396) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text rev1.1 (at 140.208 90.5764) (layer B.SilkS)
+  (gr_text rev1.2 (at 140.208 90.5764) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "rev1.1\n" (at 190.4492 90.5764) (layer F.SilkS)
+  (gr_text rev1.2 (at 190.4492 90.5764) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text sockets-split (at 161.544 88.9) (layer F.SilkS) (tstamp 5C83213E)
@@ -6023,7 +6023,7 @@
   (segment (start 215.25 71.4) (end 213.5632 73.0868) (width 0.25) (layer F.Cu) (net 48))
   (segment (start 215.65 71.4) (end 215.25 71.4) (width 0.25) (layer F.Cu) (net 48))
 
-  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 5D7CABCA) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer F.Cu) (tstamp 5DE71057) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -8221,7 +8221,7 @@
       )
     )
   )
-  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 5D7CABC7) (hatch edge 0.508)
+  (zone (net 0) (net_name "") (layer B.Cu) (tstamp 5DE71054) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 16) (thermal_gap 0.508) (thermal_bridge_width 0.508))
