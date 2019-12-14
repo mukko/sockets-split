@@ -13,3 +13,7 @@ ProMicroの結線はLet's split rev2に準拠しており、もしお使いの�
 ## 販売ページ
 
 [BOOTH](https://entotsu.booth.pm/items/1530198)にて販売しています。
+
+## rev1.2, 1.3の諸注意
+ケース、スイッチ組み立てページに記載しています。  
+
