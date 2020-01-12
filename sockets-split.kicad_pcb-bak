@@ -4182,7 +4182,7 @@
   (gr_line (start 210.058 108.458) (end 210.058 90.0684) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 205.3844 109.1184) (end 209.3976 109.1184) (layer Edge.Cuts) (width 0.2))
   (gr_line (start 205.3336 127.508) (end 205.3844 109.1184) (layer Edge.Cuts) (width 0.2))
-  (gr_line (start 91.65 128.1684) (end 204.6732 128.1684) (layer Edge.Cuts) (width 0.2))
+  (gr_line (start 91.6904 128.1704) (end 204.6732 128.1684) (layer Edge.Cuts) (width 0.2))
   (gr_text Underglow (at 109.4232 108.3564) (layer B.SilkS)
     (effects (font (size 0.5 0.5) (thickness 0.1)) (justify mirror))
   )
